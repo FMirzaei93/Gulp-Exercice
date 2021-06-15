@@ -1,0 +1,21 @@
+{
+    "name": "exercice",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^2.26.14",
+        "del": "^6.0.0",
+        "gulp": "^4.0.2",
+        "gulp-cache": "^1.1.3",
+        "gulp-imagemin": "^7.1.0",
+        "gulp-sass": "^4.1.0",
+        "gulp-uglify": "^3.0.2",
+        "gulp4-run-sequence": "^1.0.1"
+    }
+}
