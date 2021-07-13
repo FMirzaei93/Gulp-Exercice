@@ -10,4 +10,4 @@ Transfer ready-to-be-loaded files to the prod(production) folder.
 
 How to use: 
 First in terminal or cmd, navigate to the folder of the project and run: $npm init (this line will create a node_modules folder in the project folder)
-Then run: $gulp 'any task you need from gulp.js file' like $gulp watch
+Then run: $gulp 'any task you need from gulp.js file', for instance $gulp watch
